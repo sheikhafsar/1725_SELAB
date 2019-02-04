@@ -1,61 +1,61 @@
 package POJO;
 
-import java.util.Scanner;
-
 public class Elevator {
-    int floor=0;
-
-    int choice;
+    int i;
     int curFloor;
 
+    public Elevator() {
+        this.curFloor = 0;
+    }
+
+    public int getCurFloor() {
+        return curFloor;
+    }
+
+    public void setCurFloor(int curFloor) {
+        this.curFloor = curFloor;
+    }
 
 
-    public void UserInput()
+
+
+
+    public void goToFloor(int choice)
     {
-        System.out.println("Enter the floor you wish for.");
-        Scanner sc = new Scanner(System.in);
-        choice = sc.nextInt();
-
-        if (choice > floor){
-            ElevatorUp();
+        if (choice > this.getCurFloor()){
+            ElevatorUp(choice);
         }
-        else if(choice < floor){
-            ElevatorDown();
+        else if(choice < this.getCurFloor()){
+            ElevatorDown(choice);
+        }
+        else{
+            System.out.println("Elevator is already at Floor:"+this.getCurFloor());
         }
 
 
     }
 
-    public void ElevatorUp()
+    public void ElevatorUp(int choice)
     {
         System.out.println("The elevator is on it's way up...");
 
-        for (curFloor=floor; curFloor<=choice; curFloor++)
-            System.out.println("Current Floor: "+curFloor);
-
-            //floor=curFloor;
-
-        setFloor(curFloor-1);
+        for (i=this.getCurFloor(); i<=choice; i++) {
+            this.setCurFloor(i);
+            System.out.println("Current Floor: " + this.getCurFloor());
+        }
         System.out.println("The elevator has arrived");
 
     }
 
-    public void ElevatorDown()
+    public void ElevatorDown(int choice)
     {
         System.out.println("The elevator is on it's way down...");
 
-        for (curFloor=floor; curFloor>=choice; curFloor--)
-            System.out.println(curFloor);
+        for (i=this.getCurFloor(); i>=choice; i--){
+            this.setCurFloor(i);
+            System.out.println("Current Floor: " + this.getCurFloor());
+        }
 
-        setFloor(curFloor+1);
         System.out.println("The elevator has arrived");
-    }
-
-    public int getFloor() {
-        return floor;
-    }
-
-    public void setFloor(int floor) {
-        this.floor = floor;
     }
 }
