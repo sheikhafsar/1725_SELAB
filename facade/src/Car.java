@@ -1,6 +1,12 @@
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 public class Car extends Vehicle {
+    public final static Logger LOGGER =
+            Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
     @Override
     public void changeTyre(){
-        System.out.println("Changed Car Tyre");
+
+        LOGGER.log(Level.INFO,"Changed Car Tyre");
     }
 }
