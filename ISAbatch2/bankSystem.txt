@@ -1,0 +1,7 @@
+Assumptions
+
+1. Create Bank and Loan object using Abstract Factory MEthod.
+2. Enter BAnk name SBI
+3. ENter loan type as Home
+4. Enter any amount of loan.
+5. Enter rate of intrest.
