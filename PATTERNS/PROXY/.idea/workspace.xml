@@ -2,56 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6023b1d-64ee-466c-a8e6-21bdc225c68d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/1725_SELAB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/BankFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/FactoryCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/HomeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/LoanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/VerifyAccountNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/PATTERNS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/AccountNumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/BankAccountFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/FundsCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/SecurityCodeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/TestBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/WelcomeToBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FACADE/src/Blackberry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FACADE/src/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FACADE/src/MobileShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FACADE/src/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FACADE/src/ShopKeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProxyInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RealInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SINGLETON/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SINGLETON/src/JDBCSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SingletonLogger/SingletonLogger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SingletonLogger/src/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Accounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Management.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Sales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/StatePatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ABSTRACT_FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABSTRACT_FACTORY/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SINGLETON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SINGLETON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SingletonLogger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SingletonLogger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StateDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StateDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TestExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TestExample/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RealInternetAccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
+            <state relative-caret-position="185">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="e#145#146#0" expanded="true" />
@@ -102,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ProxyInternetAccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="703">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#196#197#0" expanded="true" />
                 <element signature="e#244#245#0" expanded="true" />
@@ -149,8 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +122,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,8 +174,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15743244" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16013514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -236,7 +194,6 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,6 +202,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32972974" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -264,7 +222,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RealInternetAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="185">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="e#145#146#0" expanded="true" />
@@ -275,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ProxyInternetAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="703">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#196#197#0" expanded="true" />
             <element signature="e#244#245#0" expanded="true" />

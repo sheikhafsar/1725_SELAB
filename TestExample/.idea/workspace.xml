@@ -2,63 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6181a188-aa5a-4d25-b044-0a7f4f560876" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/1725_SELAB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/BankFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/FactoryCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/HomeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/LoanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ISAbatch2/src/VerifyAccountNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/.idea/PATTERNS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/src/AccountNumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/src/BankAccountFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/src/FundsCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/src/SecurityCodeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/src/TestBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/BankFacade/src/WelcomeToBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/src/ConsoleBasedLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/src/DebugBasedLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/src/ErrorBasedLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/src/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/src/Blackberry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/src/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/src/MobileShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/src/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/src/ShopKeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/PROXY/src/OfficeInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/PROXY/src/ProxyInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/PROXY/src/RealInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/SINGLETON/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/SINGLETON/src/JDBCSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/SingletonLogger/SingletonLogger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/SingletonLogger/src/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/src/Accounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/src/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/src/Management.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/src/Sales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PATTERNS/StatePattern/src/StatePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/PetRockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetRock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/Test/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/Couch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/CouchFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/CouchHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/CouchProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/CouchUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/PrivateCouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/UserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endSem/src/openAirCouch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ELEVATOR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ELEVATOR/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PATTERNS/ABSTRACT_FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/ABSTRACT_FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/FACADE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PATTERNS/FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/PROXY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/PROXY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/SINGLETON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/SINGLETON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/SingletonLogger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/SingletonLogger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,44 +36,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Application/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="148">
               <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PetRock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PetRock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/PetRockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="222">
+              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -151,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,11 +127,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Application" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestExample" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,7 +143,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555186049834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555328293322" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -288,20 +249,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22432433" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21621622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32991204" />
@@ -309,53 +265,49 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Application/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="148">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/PetRockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PetRock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="179">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="19" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/PetRockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

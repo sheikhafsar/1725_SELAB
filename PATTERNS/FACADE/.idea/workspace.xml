@@ -2,56 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d8f9afc-9a43-4e3e-bfc0-5ee66a083991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/1725_SELAB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/BankFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/FactoryCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/HomeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/LoanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ISAbatch2/src/VerifyAccountNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/PATTERNS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/AccountNumberCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/BankAccountFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/FundsCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/SecurityCodeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/TestBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BankFacade/src/WelcomeToBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Blackberry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MobileShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShopKeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PROXY/src/OfficeInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PROXY/src/ProxyInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PROXY/src/RealInternetAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SINGLETON/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SINGLETON/src/JDBCSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SingletonLogger/SingletonLogger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SingletonLogger/src/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Accounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Management.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/Sales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatePattern/src/StatePatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/Test/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/Couch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/CouchFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/CouchHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/CouchProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/CouchUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/PrivateCouch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/UserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../endSem/src/openAirCouch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ELEVATOR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ELEVATOR/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ABSTRACT_FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ABSTRACT_FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChainOfResponsiblity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsiblity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROXY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PROXY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SINGLETON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SINGLETON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SingletonLogger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SingletonLogger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StateDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StateDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TestExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TestExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TestExample/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,10 +33,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
+            <state relative-caret-position="148">
               <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -113,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ShopKeeper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="814">
@@ -162,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -176,6 +147,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,8 +165,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,10 +213,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20878379" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21554054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -274,16 +244,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MobileShop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
@@ -317,13 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ShopKeeper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Iphone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -334,6 +287,23 @@
             <element signature="e#173#174#0" expanded="true" />
             <element signature="e#224#225#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ShopKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>

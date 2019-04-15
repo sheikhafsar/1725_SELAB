@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="001257f7-751b-486e-8665-1906439d2c22" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/ABSTRACT_FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/ABSTRACT_FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/ChainOfResponsiblity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/FACADE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/FACADE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/FACTORY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/FACTORY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/PROXY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/PROXY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/SINGLETON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/SINGLETON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PATTERNS/SingletonLogger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PATTERNS/SingletonLogger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StateDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StateDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestExample/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +28,51 @@
     <favorites_list name="ELEVATOR" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/POJO/ElevatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/POJO/AdminPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding>
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/POJO/Elevator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,9 +107,70 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="POJO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ELEVATOR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ELEVATOR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="POJO" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,8 +262,8 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7368421" visible="true" weight="0.18445946" />
-      <window_info id="Structure" order="1" sideWeight="0.2631579" side_tool="true" visible="true" weight="0.18445946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73344654" visible="true" weight="0.19121622" />
+      <window_info id="Structure" order="1" sideWeight="0.2665535" side_tool="true" visible="true" weight="0.19121622" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -181,10 +296,36 @@
     <option name="LAST_COMMIT_MESSAGE" value="implementation of Junit and singleton class" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/ELEVATOR/POJO/ElevatorTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <folding>
+            <element signature="e#0#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/ELEVATOR/Application/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <folding>
+            <element signature="e#0#482#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/POJO/ElevatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Application/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="148">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -204,15 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/POJO/Elevator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
+        <state relative-caret-position="456">
           <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/POJO/ElevatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
